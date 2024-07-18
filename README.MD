@@ -40,15 +40,16 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema python para uma abortagem iniciante, o ebookk é do nicho de programação e o subnicho é de python, o título deve ser épico e curto, e tenha uma que remete uma jornada, me liste 5 variações de títulos                                                        |
+| conteúdo | Faça um texto para ebook , com foco em python para iniciante, listando os principais funções do python. Explique sempre de uma maneira simples Deixe o texto enxuto, sempre deixe um título sugestivo por tópico |
 
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Crie uma capa de ebook intitulada "Caminho do Python". A capa deve transmitir uma sensação de jornada e descoberta no mundo da programação. Utilize elementos visuais que remetem ao universo da tecnologia e do aprendizado, como:
+Uma trilha sinuosa ou um caminho que simboliza a jornada de aprendizado. --v 5.1 |
 
 ## ✨ Features
 
